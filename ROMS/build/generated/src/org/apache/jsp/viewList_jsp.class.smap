@@ -1,0 +1,20 @@
+SMAP
+viewList_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewList.jsp
+viewList.jsp
++ 1 AdminHeader.html
+AdminHeader.html
+*L
+1,18:56
+1#1,58:74
+18#0,30:131
+48,30:162
+77,2:192
+79,5:194,3
+84,6:209
+90,4:216
+93,7:220
+*E
